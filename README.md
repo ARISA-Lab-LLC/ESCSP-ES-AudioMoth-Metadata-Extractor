@@ -20,7 +20,7 @@ AME supports batch processing, making it ideal for large-scale deployments acros
 *  Batch process multiple SD cards or folders.
 *  Generate structured output for downstream use (e.g., with AZUS).
   
-# Example Use Case
+## Example Use Case
 Researchers collecting data using dozens of AudioMoth recorders can use AME to validate devices, track firmware versions, and confirm timestamp alignment across datasets. This ensures data transparency and consistency when preparing large volumes of sound data for public release or scientific analysis.
 
 ## Installation
