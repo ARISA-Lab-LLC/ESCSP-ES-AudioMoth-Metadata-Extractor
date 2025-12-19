@@ -49,8 +49,11 @@ ame/
 ## License
 BSD 3-Clause License. See LICENSE file for details.
 
+## Copyrights, Acknowledgements, and Atrributions
+
+Eclipse Soundscapes is an enterprise of ARISA Lab, LLC and is supported by NASA award No. 80NSSC21M0008. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Aeronautics and Space Administration.
+
 ## About
-Developed by ARISA Lab as part of the Eclipse Soundscapes Project, supported by NASA Science Activation.
 
 AME is one of five open tools shared by Eclipse Soundscapes:
 1. AZUS – Automated Zenodo Upload Software
